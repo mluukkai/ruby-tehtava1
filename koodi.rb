@@ -2,3 +2,6 @@
 
 
 
+def summa(x, y)
+  x+y
+end
